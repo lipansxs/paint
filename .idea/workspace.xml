@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4499ca0-cab3-4299-b258-58d223b34692" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../设计模式/src/com/pattern/Iterator/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../设计模式/src/com/pattern/Iterator/MyIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../设计模式/src/com/pattern/Iterator/ProductNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../设计模式/src/com/pattern/Iterator/迭代器.uml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../设计模式/src/com/pattern/Iterator/迭代器.~ml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../设计模式/src/com/pattern/pattern.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../设计模式/src/com/pattern/bridge/桥接模式.uml" beforeDir="false" afterPath="$PROJECT_DIR$/../设计模式/src/com/pattern/bridge/桥接模式.uml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../设计模式/src/com/pattern/bridge/桥接模式.~ml" beforeDir="false" afterPath="$PROJECT_DIR$/../设计模式/src/com/pattern/bridge/桥接模式.~ml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../设计模式/src/com/pattern/command/Interface/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/../设计模式/src/com/pattern/command/Interface/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../设计模式/src/com/pattern/command/InterfaceImp/CreateCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../设计模式/src/com/pattern/command/InterfaceImp/CreateCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../设计模式/src/com/pattern/command/InterfaceImp/EditCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../设计模式/src/com/pattern/command/InterfaceImp/EditCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../设计模式/src/com/pattern/command/InterfaceImp/OpenCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../设计模式/src/com/pattern/command/InterfaceImp/OpenCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../设计模式/src/com/pattern/command/client/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../设计模式/src/com/pattern/command/client/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../设计模式/src/com/pattern/command/core/BoardScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../设计模式/src/com/pattern/command/core/BoardScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../设计模式/src/com/pattern/command/命令模式.uml" beforeDir="false" afterPath="$PROJECT_DIR$/../设计模式/src/com/pattern/command/命令模式.uml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../设计模式/src/com/pattern/command/命令模式.~ml" beforeDir="false" afterPath="$PROJECT_DIR$/../设计模式/src/com/pattern/command/命令模式.~ml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../设计模式/src/com/pattern/dutyLinke/责任链模式.uml" beforeDir="false" afterPath="$PROJECT_DIR$/../设计模式/src/com/pattern/dutyLinke/责任链模式.uml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../设计模式/src/com/pattern/dutyLinke/责任链模式.~ml" beforeDir="false" afterPath="$PROJECT_DIR$/../设计模式/src/com/pattern/dutyLinke/责任链模式.~ml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="XML File" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../设计模式" />
+  </component>
+  <component name="ProjectId" id="1Uj2GdcPsfoiAn6KJzv7u1AzMMD" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.shu.Test.utilTest" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.shu.paint.Bridge.pen" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IntellijProject\MyPaint\images" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IntellijProject\MyPaint\images" />
+      <recent name="D:\IntellijProject\BigProject\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shu.client.Client" />
+      <module name="MyPaint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shu.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shu.frame.MainFrame" />
+      <module name="BigProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../BigProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shu.frame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../BigProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UtilTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BigProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shu.Test.utilTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shu.Test.utilTest" />
+      <option name="MAIN_CLASS_NAME" value="com.shu.Test.utilTest.UtilTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.MainFrame" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="JUnit.UtilTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.MainFrame" />
+        <item itemvalue="JUnit.UtilTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4499ca0-cab3-4299-b258-58d223b34692" name="Default Changelist" comment="" />
+      <created>1575855588441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575855588441</updated>
+      <workItem from="1575855589787" duration="6660000" />
+      <workItem from="1575872239304" duration="11670000" />
+      <workItem from="1575893033302" duration="8276000" />
+      <workItem from="1575902353303" duration="829000" />
+      <workItem from="1575904784643" duration="1783000" />
+      <workItem from="1575906605193" duration="74000" />
+      <workItem from="1575945408754" duration="3768000" />
+      <workItem from="1575957546283" duration="9082000" />
+      <workItem from="1575979793199" duration="1226000" />
+      <workItem from="1576023088132" duration="11512000" />
+      <workItem from="1576043849642" duration="12846000" />
+      <workItem from="1576058637422" duration="5178000" />
+      <workItem from="1576063839445" duration="2311000" />
+      <workItem from="1576066448382" duration="1247000" />
+      <workItem from="1576069576309" duration="4623000" />
+      <workItem from="1576075591778" duration="388000" />
+      <workItem from="1576078530202" duration="1106000" />
+      <workItem from="1576111253382" duration="6770000" />
+      <workItem from="1576120609049" duration="3632000" />
+      <workItem from="1576127778740" duration="6851000" />
+      <workItem from="1576134935318" duration="1632000" />
+      <workItem from="1576141682327" duration="9685000" />
+      <workItem from="1576151776412" duration="690000" />
+      <workItem from="1576155359394" duration="9527000" />
+      <workItem from="1576166155954" duration="4277000" />
+      <workItem from="1576202105577" duration="509000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
